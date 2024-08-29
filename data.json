@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "image": "https://s3.amazonaws.com/ionic-marketplace/sqlite-crud-offline-mobile-app/banner.png",
+        "title": "Basics of CRUD operations",
+        "body": "CRUD operations—Create, Read, Update, and Delete—are fundamental for interacting with databases. These operations allow users to manage and manipulate data effectively. Create adds new records, Read retrieves existing records, Update modifies them, and Delete removes them. Mastering these operations is crucial for developing robust database-driven applications and ensuring data integrity and accessibility."
+    },
+    {
+        "id": 2,
+        "image": "https://docs.remaketheweb.com/static/crud-diagram.png",
+        "title": "Building a Simple CRUD Application",
+        "body": "Creating a basic CRUD application involves designing a simple interface and backend to perform Create, Read, Update, and Delete operations. This process includes setting up a database, developing a user interface, and implementing server-side logic to handle data manipulation. It provides hands-on experience with both front-end and back-end technologies, making it an ideal starting point for beginners."
+    },
+    {
+        "id": 3,
+        "image": "https://th.bing.com/th/id/OIP.DY_153KGyabTUnZ7uozPtAAAAA?w=314&h=167&c=7&r=0&o=5&pid=1.7",
+        "title": "Best Practices for API Design",
+        "body": "Designing efficient and scalable APIs involves adhering to best practices such as following RESTful principles, ensuring proper security measures, and maintaining version control. Key principles include using clear and consistent endpoints, implementing authentication and authorization, and providing comprehensive documentation. These practices help create reliable APIs that are easy to use and maintain."
+    },
+    {
+        "id": 4,
+        "image": "https://th.bing.com/th/id/OIP.jOD7RqlO69g1LDHeiYvKNAHaEK?w=308&h=180&c=7&r=0&o=5&pid=1.7",
+        "title": "Understanding JSON: The Backbone of APIs",
+        "body": "JSON (JavaScript Object Notation) is a lightweight data interchange format widely used in web development. It structures data in a readable format, making it essential for API communication. Understanding JSON’s role in organizing and transferring data helps developers create effective APIs and integrate various web services seamlessly."
+    },
+    {
+        "id": 5,
+        "image": "https://th.bing.com/th/id/OIP.wmN8oas0JO16Ina-Kz5FLgHaE8?w=243&h=180&c=7&r=0&o=5&pid=1.7",
+        "title": "Introduction to RESTful APIs",
+        "body": "RESTful APIs (Representational State Transfer) are a popular architectural style for designing networked applications. They use standard HTTP methods like GET, POST, PUT, and DELETE to interact with resources. This guide covers the core concepts of RESTful APIs, including resource identification, stateless operations, and practical examples to help beginners understand and implement RESTful services."
+    },
+    {
+        "id": 6,
+        "image": "https://th.bing.com/th/id/OIP.5CGc0Uhk3UUfkC0GFzrMDwHaDt?w=318&h=175&c=7&r=0&o=5&pid=1.7",
+        "title": "User Authentication and Role-Based Access Control",
+        "body": "Implementing user authentication and role-based access control (RBAC) in your CRUD application is crucial for securing and personalizing user interactions. User authentication verifies the identity of users, typically through login credentials or authentication tokens. Once authenticated, role-based access control manages user permissions based on their roles, ensuring they only have access to the data and functions relevant to their role"
+    }
+]
